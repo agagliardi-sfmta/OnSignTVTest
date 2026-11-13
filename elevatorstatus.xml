@@ -1,0 +1,256 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<tns:stations xmlns:tns="http://services.sfmta.com/commons/schema/ElevatorStatus">
+<tns:station accessible="1">
+<tns:name>Embarcadero Station</tns:name>
+<tns:stops>16992,17217</tns:stops>
+<tns:routes>J,KT,L,M,N,S</tns:routes>
+<tns:elevator status="1">
+<tns:name>BART Street Elevator</tns:name>
+<tns:public_name>Market & Drumm - Street Elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-08-25T12:07:31.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>BART Platform Elevator</tns:name>
+<tns:public_name>Platform Elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-10-27T18:21:47.000-08:00</tns:updated>
+</tns:elevator>
+</tns:station>
+<tns:station accessible="1">
+<tns:name>Montgomery Station</tns:name>
+<tns:stops>15731,16994</tns:stops>
+<tns:routes>J,KT,L,M,N,S</tns:routes>
+<tns:elevator status="1">
+<tns:name>BART Street Elevator</tns:name>
+<tns:public_name>Market & Sutter - Street Elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-04-04T07:44:23.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>BART Platform Elevator</tns:name>
+<tns:public_name>Platform Elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-11-09T08:21:43.000-08:00</tns:updated>
+</tns:elevator>
+</tns:station>
+<tns:station accessible="1">
+<tns:name>Powell Station</tns:name>
+<tns:stops>15417,16995</tns:stops>
+<tns:routes>J,KT,L,M,N,S</tns:routes>
+<tns:elevator status="2">
+<tns:name>Hallidie Plaza Street Elevator</tns:name>
+<tns:public_name>Hallidie Plaza - Street Elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2020-01-16T14:55:09.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>BART Street Elevator</tns:name>
+<tns:public_name>Market & Ellis - Street Elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-10-09T23:56:03.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>BART Platform Elevator</tns:name>
+<tns:public_name>Platform Elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-11-05T18:07:14.000-08:00</tns:updated>
+</tns:elevator>
+</tns:station>
+<tns:station accessible="1">
+<tns:name>Civic Center Station</tns:name>
+<tns:stops>15727,16997</tns:stops>
+<tns:routes>J,KT,L,M,N,S</tns:routes>
+<tns:elevator status="1">
+<tns:name>BART Platform Elevator</tns:name>
+<tns:public_name>Platform Elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-10-27T06:56:58.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>BART Street Elevator</tns:name>
+<tns:public_name>UN Plaza - Street Elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-10-27T10:52:22.000-08:00</tns:updated>
+</tns:elevator>
+</tns:station>
+<tns:station accessible="1">
+<tns:name>Van Ness Station</tns:name>
+<tns:stops>15419,16996</tns:stops>
+<tns:routes>J,KT,L,M,N,S</tns:routes>
+<tns:elevator status="1">
+<tns:name>Platform Elevator</tns:name>
+<tns:public_name>Platform Elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-10-14T14:11:41.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Street Elevator</tns:name>
+<tns:public_name>Van Ness & Market - Street Elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-11-09T17:10:13.000-08:00</tns:updated>
+</tns:elevator>
+</tns:station>
+<tns:station accessible="1">
+<tns:name>Church Station</tns:name>
+<tns:stops>15726,16998</tns:stops>
+<tns:routes>KT,L,M,S</tns:routes>
+<tns:elevator status="1">
+<tns:name>Street Elevator</tns:name>
+<tns:public_name>Market & Church - Street Elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-09-10T15:35:28.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Platform Elevator - Inbound</tns:name>
+<tns:public_name>Platform Elevator - Eastbound</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-06-03T09:46:21.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Platform Elevator - Outbound</tns:name>
+<tns:public_name>Platform Elevator - Westbound</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-06-03T09:46:14.000-08:00</tns:updated>
+</tns:elevator>
+</tns:station>
+<tns:station accessible="1">
+<tns:name>Castro Station</tns:name>
+<tns:stops>15728,16991</tns:stops>
+<tns:routes>KT,L,M,S</tns:routes>
+<tns:elevator status="1">
+<tns:name>Street Elevator</tns:name>
+<tns:public_name>Market & Castro - Street Elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-09-18T16:53:36.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Platform Elevator - Inbound</tns:name>
+<tns:public_name>Platform Elevator - Eastbound</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2025-09-23T07:02:54.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Platform Elevator - Outbound</tns:name>
+<tns:public_name>Platform Elevator - Westbound</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-03-25T06:21:39.000-08:00</tns:updated>
+</tns:elevator>
+</tns:station>
+<tns:station accessible="1">
+<tns:name>Forest Hill Station</tns:name>
+<tns:stops>15730,16993</tns:stops>
+<tns:routes>KT,L,M,S</tns:routes>
+<tns:elevator status="1">
+<tns:name>Platform Elevator - Inbound East</tns:name>
+<tns:public_name>Platform Elevator - Eastbound Left</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2025-08-31T19:38:23.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Platform Elevator - Inbound West</tns:name>
+<tns:public_name>Platform Elevator - Eastbound Right</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2025-08-31T11:30:15.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="2">
+<tns:name>Platform Elevator - Outbound South</tns:name>
+<tns:public_name>Platform Elevator - Westbound Left</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-04-21T13:54:10.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Platform Elevator - Outbound North</tns:name>
+<tns:public_name>Platform Elevator - Westbound Right</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-10-18T08:32:23.000-08:00</tns:updated>
+</tns:elevator>
+</tns:station>
+<tns:station accessible="1">
+<tns:name>Chinatown - Rose Pak Station</tns:name>
+<tns:stops>17876</tns:stops>
+<tns:routes>T</tns:routes>
+<tns:elevator status="1">
+<tns:name>Platform Elevator 1</tns:name>
+<tns:public_name>Platform access - left elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-05-27T15:52:14.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Platform Elevator 2</tns:name>
+<tns:public_name>Platform access - right elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-05-27T13:05:18.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Street Elevator 1</tns:name>
+<tns:public_name>Street access - left elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-03-07T16:07:10.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Street Elevator 2</tns:name>
+<tns:public_name>Street access - right elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2025-05-24T16:40:17.000-08:00</tns:updated>
+</tns:elevator>
+</tns:station>
+<tns:station accessible="1">
+<tns:name>Union Square / Market Street Station</tns:name>
+<tns:stops>17874,17877</tns:stops>
+<tns:routes>T</tns:routes>
+<tns:elevator status="1">
+<tns:name>Platform Elevator 1</tns:name>
+<tns:public_name>Platform access - left elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2025-07-10T09:58:13.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Platform Elevator 2</tns:name>
+<tns:public_name>Platform access - right elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2025-01-29T10:03:58.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Street Elevator 1</tns:name>
+<tns:public_name>Street access - left elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-03-08T08:03:10.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Street Elevator 2</tns:name>
+<tns:public_name>Street access - right elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-03-07T15:22:47.000-08:00</tns:updated>
+</tns:elevator>
+</tns:station>
+<tns:station accessible="1">
+<tns:name>Yerba Buena / Moscone Station</tns:name>
+<tns:stops>17873,17878</tns:stops>
+<tns:routes>T</tns:routes>
+<tns:elevator status="1">
+<tns:name>Platform Elevator 1</tns:name>
+<tns:public_name>Platform access - left elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2023-01-27T06:34:06.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Platform Elevator 2</tns:name>
+<tns:public_name>Platform access - right elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2023-01-26T23:18:51.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Street Elevator 1</tns:name>
+<tns:public_name>Street access - left elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2025-07-04T14:31:36.000-08:00</tns:updated>
+</tns:elevator>
+<tns:elevator status="1">
+<tns:name>Street Elevator 2</tns:name>
+<tns:public_name>Street access - right elevator</tns:public_name>
+<tns:etr>Unknown</tns:etr>
+<tns:updated>2026-10-02T06:38:34.000-08:00</tns:updated>
+</tns:elevator>
+</tns:station>
+</tns:stations>
